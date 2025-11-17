@@ -677,7 +677,7 @@ body.dark-mode .logo-personaje-img {
   body {
     background-image: url("img/nezuko.gif"); /* Tu GIF vertical */
     background-attachment: scroll;
-    background-size: cover; 
+    background-size: contain; 
     background-repeat: repeat; 
     background-position: center top;
     background-color: #1a1a1a;
@@ -792,7 +792,7 @@ body.dark-mode .logo-personaje-img {
     background-image: url("img/nezuko.gif"); 
     background-color: #121212;
     background-attachment: scroll;
-    background-size: cover; 
+    background-size: contain; 
     background-repeat: repeat; 
     background-position: center top;
   }
